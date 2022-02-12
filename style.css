@@ -1,0 +1,42 @@
+.website-title {
+    background-color: cadetblue;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.webpage-title, #bottom-margin {
+    background-color: darkcyan;
+    color: white;
+    padding: 1rem;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+.menu {
+    background-color: bisque;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.menu li {
+    font-size: large;
+    margin: 10px;
+}
+
+#home {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 20px;
+}
+
+#bottom-margin {
+    margin-top:3em ;
+}
+
